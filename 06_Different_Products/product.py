@@ -20,4 +20,3 @@ class Video:
 
     def get_price(self) -> float:
         return self._price
-
